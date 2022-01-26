@@ -37,7 +37,7 @@ a{
   align-items:center;
   justify-content:space-between;
   grid-gap:20px;
-  grid-template-areas:"logo busqueda iconos"
+  grid-template-areas:"logo busqueda iconos";
 }
 
 .contenedor-logo{
